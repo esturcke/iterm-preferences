@@ -1207,6 +1207,10 @@
 	<string>1C991411-D306-438B-8B63-E4170A47BEAB</string>
 	<key>NoSyncNeverAskAboutSettingAlternateMouseScroll</key>
 	<true/>
+	<key>NoSyncNeverRemindPrefsChangesLostForFile</key>
+	<true/>
+	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
+	<integer>0</integer>
 	<key>NoSyncPermissionToShowTip</key>
 	<false/>
 	<key>NoSyncTimeOfFirstLaunchOfVersionWithTip</key>
