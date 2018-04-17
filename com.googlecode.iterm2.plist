@@ -445,22 +445,24 @@
 	<string>1460 1714 529 77 0 1200 2560 1417 </string>
 	<key>NSWindow Frame Preferences</key>
 	<string>301 1917 606 456 0 1200 1920 1177 </string>
+	<key>NSWindow Frame SUAutomaticUpdateAlert</key>
+	<string>650 752 616 174 0 0 1920 1177 </string>
 	<key>NSWindow Frame SUStatusFrame</key>
-	<string>-800 2046 400 129 -1200 720 1200 1897 </string>
+	<string>758 803 400 129 0 0 1920 1200 </string>
 	<key>NSWindow Frame SUUpdateAlert</key>
-	<string>648 588 620 392 0 0 1920 1177 </string>
+	<string>648 606 620 392 0 0 1920 1200 </string>
 	<key>NSWindow Frame SessionsPreferences</key>
 	<string>181 105 606 456 0 0 1920 1177 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>-1036 2083 796 473 -1200 720 1200 1897 </string>
+	<string>-1058 1996 796 473 -1200 720 1200 1920 </string>
 	<key>NSWindow Frame UKCrashReporter</key>
-	<string>155 593 592 584 0 0 1920 1177 </string>
+	<string>548 365 592 584 0 0 1920 1177 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>0 777 570 400 0 0 1920 1177 </string>
-	<key>NSWindow Frame iTerm Window 1</key>
-	<string>0 1200 2560 1440 0 1200 2560 1417 </string>
-	<key>NSWindow Frame iTerm Window 2</key>
 	<string>0 0 1920 1200 0 0 1920 1177 </string>
+	<key>NSWindow Frame iTerm Window 1</key>
+	<string>0 0 1920 1200 0 0 1920 1177 </string>
+	<key>NSWindow Frame iTerm Window 2</key>
+	<string>37 337 570 400 0 0 1920 1177 </string>
 	<key>New Bookmarks</key>
 	<array>
 		<dict>
@@ -1274,16 +1276,18 @@
 	<integer>8</integer>
 	<key>RightOption</key>
 	<integer>3</integer>
+	<key>SUAutomaticallyUpdate</key>
+	<true/>
 	<key>SUEnableAutomaticChecks</key>
 	<true/>
 	<key>SUFeedAlternateAppNameKey</key>
 	<string>iTerm</string>
 	<key>SUFeedURL</key>
-	<string>https://iterm2.com/appcasts/nightly.xml?shard=48</string>
+	<string>https://iterm2.com/appcasts/testing.xml?shard=48</string>
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2017-10-14T19:04:31Z</date>
+	<date>2018-04-14T15:49:14Z</date>
 	<key>SavePasteHistory</key>
 	<false/>
 	<key>ShowBookmarkName</key>
@@ -1319,7 +1323,7 @@
 	<key>TripleClickSelectsFullWrappedLines</key>
 	<false/>
 	<key>UKCrashReporterLastCrashReportDate</key>
-	<real>1488315648</real>
+	<real>1523301504</real>
 	<key>URLHandlersByGuid</key>
 	<dict/>
 	<key>UseBorder</key>
@@ -1345,6 +1349,6 @@
 	<key>findRegex_iTerm</key>
 	<false/>
 	<key>iTerm Version</key>
-	<string>3.1.20171008-nightly</string>
+	<string>3.1.6beta5</string>
 </dict>
 </plist>
